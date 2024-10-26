@@ -1,0 +1,41 @@
+{
+  "contact":[
+    {
+        "id":1,
+        "text":"info@selhono.com",
+        "icon":"fa-solid fa-envelope"
+    },
+    {
+        "id":2,
+        "text":"(+98) 09122345469",
+         "icon":"fa-solid fa-phone"
+    },
+    {
+        "id":3,
+          "text":"www.selhono.com",
+        "icon":"fa-solid fa-earth-americas"
+    }
+  ] ,
+
+  "ideas":[
+    {"id":"chiled-1",
+    "name":"فاطمه راد",
+    "icon":"fa-solid fa-user",
+    "span":"ایران.قم",
+    "text":"    لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است"
+},
+{"id":"chiled-2",
+"name":"زهرا  بابایی",
+"icon":"fa-solid fa-user",
+"span":"ایران.خراسان",
+"text":"    لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است"
+} ,
+{"id":"chiled-3",
+"name":"اوا سلیمی",
+"icon":"fa-solid fa-user",
+"span":"ایران.تهران",
+"text":"    لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است"
+}
+  ]
+
+}
